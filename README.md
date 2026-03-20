@@ -1,1 +1,1 @@
-# una-ihcux-lista04
+O try-catch é uma estrutura usada para tratar erros em tempo de execução. No bloco try colocamos o código que pode falhar, e no catch definimos o que fazer se o erro acontecer. Ele se conecta com a Prevenção de Erros porque evita que o programa quebre de forma inesperada. Ou seja, mesmo que o erro ocorra, o sistema consegue lidar com ele de maneira controlada, garantindo mais estabilidade e confiabilidade. O try-catch não impede o erro, mas previne que ele cause falhas graves no funcionamento do software.
